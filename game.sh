@@ -10,24 +10,30 @@ do
   Q="${questions[a-1]}"
   A="${answers[a-1]}"
   echo "${PURPLE}Question number: $a${RESET}"
-  read -p "${!Q} " I1 
-  if [ "$I1" = "${!A}" ]; then
+  read -p "${!Q} " Inp
+  if [ "$Inp" = "${!A}" ]; then
     n=$((n + 100))
     echo "${GREEN}Correct!${RESET}"
     echo "${YELLOW}Score=$n${RESET}"
     echo
     if [ $n -eq 700 ]; then
-      echo "You win!"
+      echo "${GREEN}YOU WIN!!!${RESET}"
+      echo "${GREEN}==========================================================================${RESET}"
+echo
+echo
       exit 1
     fi
   else
     n=$((n - 100)) 
-    echo "${RED}Try Again!!${RESET}"
+    echo "${RED}Try Again!${RESET}"
     echo "${YELLOW}Score=$n${RESET}"
     echo
   fi
 done
 
-echo "You Lose!"
+echo "${RED}YOU LOSE!!!${RESET}"
+echo "${RED}==========================================================================${RESET}"
+echo
+echo
 
 
