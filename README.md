@@ -1,2 +1,2 @@
 # game_developing
-This is a game developed by Marwa, Qezat and me
+This is a game developed by Marwa, Qezat and Mehmet

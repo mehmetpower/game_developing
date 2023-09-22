@@ -7,9 +7,9 @@ OOOOOOOOOoooooo,                                            |OOoooooOOOOOS
 OOOOOOOOOOOOOOOOo,                                          |OOOOOOOOOOOOC
 OOOOOOOOOOOOOOOOOO                                         ,|OOOOOOOOOOOOI
 OOOOOOOOOOOOOOOOOO @          THE                          |OOOOOOOOOOOOOI
-OOOOOOOOOOOOOOOOO'@           COMMAND                      OOOOOOOOOOOOOOb
-OOOOOOOOOOOOOOO'a'            LINE                         |OOOOOOOOOOOOOy
-OOOOOOOOOOOOOO''              MURDERS                      aa`OOOOOOOOOOOP
+OOOOOOOOOOOOOOOOO'@           RIDDLE                       OOOOOOOOOOOOOOb
+OOOOOOOOOOOOOOO'a'            GAME                         |OOOOOOOOOOOOOy
+OOOOOOOOOOOOOO''                                           aa`OOOOOOOOOOOP
 OOOOOOOOOOOOOOb,..                                          `@aa``OOOOOOOh
 OOOOOOOOOOOOOOOOOOo                                           `@@@aa OOOOo
 OOOOOOOOOOOOOOOOOOO|                                             @@@ OOOOe
@@ -24,4 +24,4 @@ OOOOOOO'  `@@a               @@a@@   @@""           a@@   a     |@@@ OOOO3
 
 Welcome to our game. Rules are easy , you will be asked to answer 10 riddels
 Each right answer gives you 100 points , every wrong answer will take 100 points from you.
-If you got 700 points , then congratulations , you are genius :) 
+If you got 700 points , then congratulations , you are genius :-) 
