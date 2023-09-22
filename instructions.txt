@@ -22,7 +22,7 @@ OOOOOOO'  `@@a               @@a@@   @@""           a@@   a     |@@@ OOOO3
 `OOOO'       `@    aa@@       aaa"""          @a        a@     a@@@',OOOO'
 
 
-Welcome to our game. Rules are easy , you will be asked to answer 10 riddels
+Welcome to our game. Rules are easy , you will be asked to answer 10 riddles
 Each right answer gives you 100 points , every wrong answer will take 100 points from you.
 If you got 700 points , then congratulations , you are genius :-) 
 
